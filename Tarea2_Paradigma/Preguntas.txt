@@ -1,0 +1,42 @@
+<area1> Ingeniería de Software; Desarrollo de Aplicaciones; Tecnología de Internet
+<area2> Veterinaria; Agricultura; Ciencias Ambientales
+<area3> Diseño Gráfico; Ilustración; Animación Digital
+<area4> Recursos Humanos; Gestión de Personal
+<area5> Arqueología; Historia
+<area6> Ingeniería Civil; Construcción
+<area7> Educación en Salud; Capacitación
+<area8> Música; Composición
+<area9> Administración; Gestión Empresarial
+<area10> Diseño Industrial; Producción Masiva
+<area11> Diseño de Logotipos; Publicidad
+<area12> Organización de Eventos; Atención al Cliente
+<area13> Medicina; Enfermería
+<area14> Contabilidad; Finanzas
+<area15> Botánica; Horticultura
+<area16> Arquitectura; Urbanismo
+<area17> Farmacología; Investigación Médica
+<area18> Relaciones Internacionales; Comercio Exterior
+<area19> Artes Plásticas; Bellas Artes
+<area20> Marketing; Publicidad
+
+1 Diseñar programas de computación y explorar nuevas aplicaciones tecnológicas para uso del internet <area1>
+2 Criar, cuidar y tratar animales domésticos y de campo <area2>
+3 Investigar sobre áreas verdes, medio ambiente y cambios climáticos <area2>
+4 Ilustrar, dibujar y animar digitalmente <area3>
+5 Seleccionar, capacitar y motivar al personal de una organización/empresa <area4>
+6 Realizar excavaciones para descubrir restos del pasado <area5>
+7 Resolver problemas de cálculo para construir un puente <area6>
+8 Diseñar cursos para enseñar a la gente sobre temas de salud e higiene <area7>
+9 Tocar un instrumento y componer música <area8>
+10 Planificar cuáles son las metas de una organización pública o privada a mediano y largo plazo <area9>
+11 Diseñar y planificar la producción masiva de artículos como muebles, autos, equipos de oficina, empaques y envases para alimentos y otros <area10>
+12 Diseñar logotipos y portadas de una revista <area11>
+13 Organizar eventos y atender a sus asistentes <area12>
+14 Atender la salud de personas enfermas <area13>
+15 Controlar ingresos y egresos de fondos y presentar el balance final de una institución <area14>
+16 Hacer experimentos con plantas (frutas, árboles, flores) <area15>
+17 Concebir planos para viviendas, edificios y ciudadelas <area16>
+18 Investigar y probar nuevos productos farmacéuticos <area17>
+19 Hacer propuestas y formular estrategias para aprovechar las relaciones económicas entre dos países <area18>
+20 Pintar, hacer esculturas, ilustrar libros de arte, etcétera <area19>
+21 Elaborar campañas para introducir un nuevo producto al mercado <area20>

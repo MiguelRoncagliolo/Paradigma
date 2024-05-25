@@ -1,0 +1,171 @@
+ÁREA Arte y Creatividad
+Diseñador Gráfico;Artista Plástico;Fotógrafo;Ilustrador;Músico;Animador Digital;Escultor;Decorador;Presentador de TV
+ÁREA Ciencias Sociales
+Sociólogo;Antropólogo;Historiador;Psicólogo;Trabajador Social;Politólogo;Maestro;Educador;Linguista
+ÁREA Economía, Administrativa y Financiera
+Administrador de Empresas;Economista;Contador;Auditor;Gerente de Proyectos;Consultor Financiero;Empresario;Asesor de Inversiones
+ÁREA Ciencia y Tecnología
+Ingeniero de Software;Desarrollador Web;Analista de Sistemas;Administrador de Redes;Ingeniero Civil;Ingeniero Industrial;Arquitecto;Ingeniero Eléctrico;Científico de Datos
+ÁREA Ciencias Ecológicas, Biológicas y de Salud
+Médico;Enfermero;Bioquímico;Fisioterapeuta;Veterinario;Farmacéutico;Biólogo;Nutricionista;Ecologista
+
+1. Diseñar programas de computación y explorar nuevas aplicaciones tecnológicas para uso del internet.
+Ciencia y Tecnología
+2. Criar, cuidar y tratar animales domésticos y de campo
+Ciencias Ecológicas, Biológicas y de Salud
+3. Investigar sobre áreas verdes, medio ambiente y cambios climáticos
+Ciencias Ecológicas, Biológicas y de Salud
+4. Ilustrar, dibujar y animar digitalmente.
+Arte y Creatividad
+5. Seleccionar, capacitar y motivar al personal de una organización/empresa
+Economía, Administrativa y Financiera
+6. Realizar excavaciones para descubrir restos del pasado
+Ciencias Sociales
+7. Resolver problemas de cálculo para construir un puente.
+Ciencia y Tecnología
+8. Diseñar cursos para enseñar a la gente sobre temas de salud e higiene
+Ciencias Ecológicas, Biológicas y de Salud
+9. Tocar un instrumento y componer música
+Arte y Creatividad
+10. Planificar cuáles son las metas de una organización pública o privada a mediano y largo plazo.
+Economía, Administrativa y Financiera
+11. Diseñar y planificar la producción masiva de artículos como muebles, autos, equipos de oficina, empaques y envases para alimentos y otros.
+Ciencia y Tecnología
+12. Diseñar logotipos y portadas de una revista
+Arte y Creatividad
+13. Organizar eventos y atender a sus asistentes.
+Ciencias Sociales
+14. Atender la salud de personas enfermas.
+Ciencias Ecológicas, Biológicas y de Salud
+15. Controlar ingresos y egresos de fondos y presentar el balance final de una institución.
+Economía, Administrativa y Financiera
+16. Hacer experimentos con plantas (frutas, árboles, flores)
+Ciencias Ecológicas, Biológicas y de Salud
+17. Concebir planos para viviendas, edificios y ciudadelas.
+Ciencia y Tecnología
+18. Investigar y probar nuevos productos farmacéuticos.
+Ciencia y Tecnología
+19. Hacer propuestas y formular estrategias para aprovechar las relaciones económicas entre dos países.
+Economía, Administrativa y Financiera
+20. Pintar, hacer esculturas, ilustrar libros de arte, etcétera.
+Arte y Creatividad
+21. Elaborar campañas para introducir un nuevo producto al mercado.
+Economía, Administrativa y Financiera
+22. Examinar y tratar los problemas visuales
+Ciencias Ecológicas, Biológicas y de Salud
+23. Defender a clientes individuales o empresas en juicios de diferente naturaleza.
+Ciencias Sociales
+24. Diseñar máquinas que puedan simular actividades humanas.
+Ciencia y Tecnología
+25. Investigar las causas y efectos de los trastornos emocionales
+Ciencias Sociales
+26. Supervisar las ventas de un centro comercial
+Economía, Administrativa y Financiera
+27. Atender y realizar ejercicios a personas que tienen limitaciones físicas, problemas de lenguaje, etcétera.
+Ciencias Ecológicas, Biológicas y de Salud
+28. Prepararse para ser modelo profesional.
+Arte y Creatividad
+29. Aconsejar a las personas sobre planes de ahorro e inversiones.
+Economía, Administrativa y Financiera
+30. Elaborar mapas, planos e imágenes para el estudio y análisis de datos geográficos.
+Ciencia y Tecnología
+31. Diseñar juegos interactivos electrónicos para computadora.
+Arte y Creatividad
+32. Realizar el control de calidad de los alimentos
+Ciencias Ecológicas, Biológicas y de Salud
+33. Tener un negocio propio de tipo comercial.
+Economía, Administrativa y Financiera
+34. Escribir artículos periodísticos, cuentos, novelas y otros.
+Ciencias Sociales
+35. Redactar guiones y libretos para un programa de televisión
+Arte y Creatividad
+36. Organizar un plan de distribución y venta de un gran almacén.
+Economía, Administrativa y Financiera
+37. Estudiar la diversidad cultural en el ámbito rural y urbano
+Ciencias Sociales
+38. Gestionar y evaluar convenios internacionales de cooperación para el desarrollo social.
+Ciencias Sociales
+39. Crear campañas publicitarias
+Arte y Creatividad
+40. Trabajar investigando la reproducción de peces, camarones y otros animales marinos.
+Ciencias Ecológicas, Biológicas y de Salud
+41. Dedicarse a fabricar productos alimenticios de consumo masivo
+Ciencia y Tecnología
+42. Gestionar y evaluar proyectos de desarrollo en una institución educativa y/o fundación.
+Ciencias Sociales
+43. Rediseñar y decorar espacios físicos en viviendas, oficinas y locales comerciales.
+Arte y Creatividad
+44. Administrar una empresa de turismo y/o agencias de viaje.
+Economía, Administrativa y Financiera
+45. Aplicar métodos alternativos a la medicina tradicional para atender personas con dolencias de diversa índole.
+Ciencias Ecológicas, Biológicas y de Salud
+46. Diseñar ropa para niños, jóvenes y adultos.
+Arte y Creatividad
+47. Investigar organismos vivos para elaborar vacunas.
+Ciencias Ecológicas, Biológicas y de Salud
+48. Manejar y/o dar mantenimiento a dispositivos/aparatos tecnológicos en aviones, barcos, radares, etcétera.
+Ciencia y Tecnología
+49. Estudiar idiomas extranjeros –actuales y antiguos- para hacer traducción.
+Ciencias Sociales
+50. Restaurar piezas y obras de arte
+Arte y Creatividad
+51. Revisar y dar mantenimiento a artefactos eléctricos, electrónicos y computadoras.
+Ciencia y Tecnología
+52. Enseñar a niños de 0 a 5 años
+Ciencias Sociales
+53. Investigar y/o sondear nuevos mercados.
+Economía, Administrativa y Financiera
+54. Atender la salud dental de las personas
+Ciencias Ecológicas, Biológicas y de Salud
+55. Tratar a niños, jóvenes y adultos con problemas psicológicos.
+Ciencias Sociales
+56. Crear estrategias de promoción y venta de nuevos productos ecuatorianos en el mercado internacional.
+Economía, Administrativa y Financiera
+57. Planificar y recomendar dietas para personas diabéticas y/o con sobrepeso.
+Ciencias Ecológicas, Biológicas y de Salud
+58. Trabajar en una empresa petrolera en un cargo técnico como control de la producción.
+Ciencia y Tecnología
+59. Administrar una empresa (familiar, privada o pública)
+Economía, Administrativa y Financiera
+60. Tener un taller de reparación y mantenimiento de carros, tractores, etcétera.
+Ciencia y Tecnología
+61. Ejecutar proyectos de extracción minera y metalúrgica.
+Ciencia y Tecnología
+62. Asistir a directivos de multinacionales con manejo de varios idiomas.
+Economía, Administrativa y Financiera
+63. Diseñar programas educativos para niños con discapacidad.
+Ciencias Sociales
+64. Aplicar conocimientos de estadística en investigaciones en diversas áreas (social, administrativa, salud, etcétera.)
+Ciencia y Tecnología
+65. Fotografiar hechos históricos, lugares significativos, rostros, paisajes para el área publicitaria, artística, periodística y social
+Arte y Creatividad
+66. Trabajar en museos y bibliotecas nacionales e internacionales.
+Ciencias Sociales
+67. Ser parte de un grupo de teatro.
+Arte y Creatividad
+68. Producir cortometrajes, spots publicitarios, programas educativos, de ficción, etcétera.
+Arte y Creatividad
+69. Estudiar la influencia entre las corrientes marinas y el clima y sus consecuencias ecológicas.
+Ciencias Ecológicas, Biológicas y de Salud
+70. Conocer las distintas religiones, su filosofía y transmitirlas a la comunidad en general
+Ciencias Sociales
+71. Asesorar a inversionistas en la compra de bienes/acciones en mercados nacionales e internacionales.
+Economía, Administrativa y Financiera
+72. Estudiar grupos étnicos, sus costumbres, tradiciones, cultura y compartir sus vivencias.
+Ciencias Sociales
+73. Explorar el espacio sideral, los planetas, características y componentes.
+Ciencia y Tecnología
+74. Mejorar la imagen facial y corporal de las personas aplicando diferentes técnicas.
+Ciencias Ecológicas, Biológicas y de Salud
+75. Decorar jardines de casas y parques públicos.
+Arte y Creatividad
+76. Administrar y renovar menúes de comidas en un hotel o restaurante.
+Ciencias Ecológicas, Biológicas y de Salud
+77. Trabajar como presentador de televisión, locutor de radio y televisión, animador de programas culturales y concursos.
+Arte y Creatividad
+78. Diseñar y ejecutar programas de turismo.
+Ciencias Sociales
+79. Administrar y ordenar (planificar) adecuadamente la ocupación del espacio físico de ciudades, países etc., utilizando imágenes de satélite, mapas.
+Ciencia y Tecnología
+80. Organizar, planificar y administrar centros educativos
+Economía, Administrativa y Financiera
